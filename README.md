@@ -18,6 +18,7 @@ Census data source: https://www.census.gov/quickfacts/fact/table/ashevillecityno
 
 ## Data analysis
 Individual area data analysis completed on Google Data Studio
+https://datastudio.google.com/reporting/0d29149f-8b9a-4f79-82c4-c934a0ece759
 
 ## How data was obtained
 Original data sourced from The City of Asheville North Carolina Open Data Portal. Specifically the APD Public Incidents Crime dataset published 04/30/2019. The dataset information as a "Data Updated" date of 05/06/2020. The dataset was found to include incidents up to and including the date of download.  Dataset was marked "Public".
