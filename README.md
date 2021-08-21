@@ -14,11 +14,17 @@ This Problem Data subset of Asheville City contains information about the crime 
 8. Census data - Asheville City has 91.7% of population with a high school or higher education.
 9. Census data - Asheville City has a race and hispanic origin of: White 84.0%, African American 11.2%, American Indian 0.4%, Asian 1.7%.  White not Hispanic/Latino 77.9%, White Hispanic/Latino 6.8%.
 
-Census data source: https://www.census.gov/quickfacts/fact/table/ashevillecitynorthcarolina,buncombecountynorthcarolina,US/PST045219
+Census data source: 
+https://www.census.gov/quickfacts/fact/table/ashevillecitynorthcarolina,buncombecountynorthcarolina,US/PST045219
 
 ## Data analysis
 Individual area data analysis completed on Google Data Studio
+
 https://datastudio.google.com/reporting/0d29149f-8b9a-4f79-82c4-c934a0ece759
+
+Data source was split to allow for NIBR sorting.
+
+https://docs.google.com/spreadsheets/d/15QhG5NvViwiSDPetIUhgf2dyE3jXOMTG1khkyQTwjQ0/edit?usp=sharing
 
 ## How data was obtained
 Original data sourced from The City of Asheville North Carolina Open Data Portal. Specifically the APD Public Incidents Crime dataset published 04/30/2019. The dataset information as a "Data Updated" date of 05/06/2020. The dataset was found to include incidents up to and including the date of download.  Dataset was marked "Public".
